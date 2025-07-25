@@ -9,8 +9,9 @@
 
 ### 📫 Contato
 
-[![Email](https://img.shields.io/badge/Email-002244?style=for-the-badge&logo=gmail&logoColor=white)]: arthurd.rios10@gmail.com
+[![Email](https://img.shields.io/badge/Email-002244?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurd.rios10@gmail.com) arthurd.rios10@gmail.com  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-domingues-rios-3a1198335/)
+
 
 ---
 
