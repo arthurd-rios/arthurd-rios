@@ -1,4 +1,7 @@
-# Arthur Domingues Rios
+# ** Arthur Domingues Rios **
+
+
+
 
 ![Ciência da Computação - USP](https://img.shields.io/badge/Ciência%20da%20Computação%20-%20USP-003366?style=for-the-badge&logo=academia&logoColor=white&labelColor=002244)
 
