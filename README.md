@@ -1,4 +1,4 @@
-# ** Arthur Domingues Rios **
+# Arthur Domingues Rios
 
 
 
