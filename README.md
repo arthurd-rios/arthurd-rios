@@ -1,43 +1,19 @@
-<h1 align="center">Arthur Domingues Rios</h1>
+# Arthur Domingues Rios
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Ciência%20da%20Computação%20-%20USP-003366?style=for-the-badge&logo=academia&logoColor=white&labelColor=002244"/>
-</p>
+![Ciência da Computação - USP](https://img.shields.io/badge/Ciência%20da%20Computação%20-%20USP-003366?style=for-the-badge&logo=academia&logoColor=white&labelColor=002244)
 
 ---
 
-<h3 align="center">📫 Contato</h3>
+### 📫 Contato
 
-<p align="center">
-  <a href="mailto:arthur@email.com">
-    <img src="https://img.shields.io/badge/Email-002244?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/seu-usuario">
-    <img src="https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/arthurrios">
-    <img src="https://img.shields.io/badge/GitHub-002244?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-002244?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthur@email.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003366?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![GitHub](https://img.shields.io/badge/GitHub-002244?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arthurrios)
 
 ---
 
-<h3 align="center">📌 Projetos Recentes</h3>
+### 📈 Estatísticas
 
-<p align="center">
-🔹 <strong><a href="https://github.com/arthurrios/biomejs-config">biomejs-config</a></strong> <br>
-🔹 <strong><a href="https://github.com/arthurrios/next-saas-rbac">next-saas-rbac</a></strong> <br>
-🔹 <strong><a href="https://github.com/arthurrios/fast-feet-nest-clean">fast‑feet‑nest‑clean</a></strong> <br>
-🔹 <strong><a href="https://github.com/arthurrios/ignite-shop-web">ignite‑shop‑web</a></strong> <br>
-🔹 <strong><a href="https://github.com/arthurrios/coffee-delivery-mobile">coffee‑delivery‑mobile</a></strong>
-</p>
-
----
-
-<h3 align="center">📈 Estatísticas</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurrios&show_icons=true&theme=blueberry&hide_title=true&count_private=true" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrios&layout=compact&theme=blueberry" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arthurrios&show_icons=true&theme=blueberry&hide_title=true&count_private=true)
+&nbsp;&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrios&layout=compact&theme=blueberry)
