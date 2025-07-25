@@ -22,12 +22,14 @@
 
 ---
 
-<h3 align="center">📌 Todos os meus projetos</h3>
+<h3 align="center">📌 Projetos Recentes</h3>
 
 <p align="center">
-  <a href="https://github.com/arthurrios?tab=repositories">
-    <img src="https://img.shields.io/badge/Acessar%20Todos%20os%20Repositórios-003366?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+🔹 <strong><a href="https://github.com/arthurrios/biomejs-config">biomejs-config</a></strong> <br>
+🔹 <strong><a href="https://github.com/arthurrios/next-saas-rbac">next-saas-rbac</a></strong> <br>
+🔹 <strong><a href="https://github.com/arthurrios/fast-feet-nest-clean">fast‑feet‑nest‑clean</a></strong> <br>
+🔹 <strong><a href="https://github.com/arthurrios/ignite-shop-web">ignite‑shop‑web</a></strong> <br>
+🔹 <strong><a href="https://github.com/arthurrios/coffee-delivery-mobile">coffee‑delivery‑mobile</a></strong>
 </p>
 
 ---
