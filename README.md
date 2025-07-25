@@ -22,9 +22,20 @@
 
 ---
 
+<h3 align="center">📌 Todos os meus projetos</h3>
+
+<p align="center">
+  <a href="https://github.com/arthurrios?tab=repositories">
+    <img src="https://img.shields.io/badge/Acessar%20Todos%20os%20Repositórios-003366?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 <h3 align="center">📈 Estatísticas</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthurrios&show_icons=true&theme=blueberry&hide_title=true&count_private=true" style="margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurrios&show_icons=true&theme=blueberry&hide_title=true&count_private=true" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurrios&layout=compact&theme=blueberry" />
 </p>
